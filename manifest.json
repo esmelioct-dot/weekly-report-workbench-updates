@@ -1,0 +1,27 @@
+{
+  "version": "0.2.1",
+  "publishedAt": "2026-08-27T06:05:00.000Z",
+  "notes": [
+    "启用已有数据时停止或覆盖的选择流程",
+    "支持周报和月报定时填写",
+    "启用自动更新、完整性校验和失败回滚",
+    "移除安装包中预置的内部钉钉文档地址"
+  ],
+  "platforms": {
+    "win32-x64": {
+      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.1/weekly-workbench-update-windows-x64-v0.2.1.zip",
+      "sha256": "a6baf1691ad149958b08906a915b2addd8cb2dc077a97fd2d8e7cdda3f1a341a",
+      "format": "zip"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.1/weekly-workbench-update-macos-arm64-v0.2.1.tar.gz",
+      "sha256": "8ac5e8fd87c904f6615f8c853e078932a7439e8a4ec071d29eee3e323f213a53",
+      "format": "tar.gz"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.1/weekly-workbench-update-macos-x64-v0.2.1.tar.gz",
+      "sha256": "9cf68ecdef2c84c19bc8fdd16f12683602f00b25c9cb2b900f8162caf2190246",
+      "format": "tar.gz"
+    }
+  }
+}
