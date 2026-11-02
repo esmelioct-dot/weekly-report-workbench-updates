@@ -1,23 +1,25 @@
 {
-  "version": "0.2.4",
-  "publishedAt": "2026-08-27T09:55:41.633Z",
+  "version": "0.2.5",
+  "publishedAt": "2026-11-02T08:15:00.000Z",
   "notes": [
-    "左上角工作台标识由“周”改为“^_^”"
+    "新增总粉丝数指标，并从 OneSight 第一列悬浮提示读取完整值",
+    "工作台新增总粉丝数展示与六账号合计",
+    "钉钉写入范围更新为 Global C:F、JP L:O，并保留冲突检测与回读校验"
   ],
   "platforms": {
     "win32-x64": {
-      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.4/weekly-workbench-update-windows-x64-v0.2.4.zip",
-      "sha256": "FA647877C7057110BA4FBF51493ECA765A62C1D6481044B75EEE093AA3272A49",
+      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.5/weekly-workbench-update-windows-x64-v0.2.5.zip",
+      "sha256": "C135AEF651D2304F236D3861A64E7F921C6AA5338F88A775811AA5B6BCAE03F6",
       "format": "zip"
     },
     "darwin-arm64": {
-      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.4/weekly-workbench-update-macos-arm64-v0.2.4.tar.gz",
-      "sha256": "BC564B03F3EAC590F2FB9270A16428A9FBEA7B12041E19DA163A67B0DCEB7791",
+      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.5/weekly-workbench-update-macos-arm64-v0.2.5.tar.gz",
+      "sha256": "CC85E2026589A36709BB11E5EC0BF23A905B6949E4FA78B52BA89B626F7FECF0",
       "format": "tar.gz"
     },
     "darwin-x64": {
-      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.4/weekly-workbench-update-macos-x64-v0.2.4.tar.gz",
-      "sha256": "6979F61C388D6937F132C27E3CECD5406C937C8F1300A2E039696445244E8022",
+      "url": "https://github.com/esmelioct-dot/weekly-report-workbench-updates/releases/download/v0.2.5/weekly-workbench-update-macos-x64-v0.2.5.tar.gz",
+      "sha256": "CC85E2026589A36709BB11E5EC0BF23A905B6949E4FA78B52BA89B626F7FECF0",
       "format": "tar.gz"
     }
   }
